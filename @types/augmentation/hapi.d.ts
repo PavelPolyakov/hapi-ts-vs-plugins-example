@@ -1,4 +1,4 @@
-import * as DTHapi from "hapi";
+import * as Hapi from "hapi";
 
 declare module "hapi" {
     export interface Server {
