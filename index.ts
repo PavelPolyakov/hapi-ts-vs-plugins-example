@@ -7,6 +7,6 @@ console.log(server.version);
 
 server.some_server_method(42);
 
-server.nono;
+server.plugins.
 
 server.plugins.db.wow // yay.
